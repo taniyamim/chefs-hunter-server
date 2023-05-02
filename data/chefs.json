@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "imgUrl": "https://example.com/chef1.jpg",
+      "imgUrl": "https://lh3.googleusercontent.com/PEiXzGAWzKGsGRpJAj4IcJlPD05HKUwy5YVymRuQc3OPJ2cFXG600xB5PbjO4QBrpYT4kUEJCcxfOQDHsBmkZrdahpsSjEzIXclGwpOAoXfCVhfvU-6CP9MMyrxo8dpCvXja6h8z",
       "name": "Ahmed",
       "experience": 10,
       "numRecipes": 25,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "imgUrl": "https://example.com/chef2.jpg",
+      "imgUrl": "https://img.freepik.com/premium-photo/pretty-arab-woman-barbecue-chef-preparing-hot-dogs_1194-412302.jpg?w=2000",
       "name": "Fatima",
       "experience": 5,
       "numRecipes": 15,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "imgUrl": "https://example.com/chef3.jpg",
+      "imgUrl": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/01/27/2447721-1277671407.png?itok=jyt_i5Dd",
       "name": "Khalid",
       "experience": 8,
       "numRecipes": 20,
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "imgUrl": "https://example.com/chef4.jpg",
+      "imgUrl": "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/Qw0iBEkOqrIJ9kpSFtcMrWaWLsM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/E6KNN7GYH4X7SOZ6JGHSLTYBOQ.jpg",
       "name": "Sara",
       "experience": 6,
       "numRecipes": 18,
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "imgUrl": "https://example.com/chef5.jpg",
+      "imgUrl": "https://recruit-for-uhnw.wvbconnect.com/wp-content/uploads/2023/01/Arabic-Chef-Picture-1254-x-836-1024x683.jpg",
       "name": "Hassan",
       "experience": 7,
       "numRecipes": 22,
@@ -41,7 +41,7 @@
     },
     {
       "id": 6,
-      "imgUrl": "https://example.com/chef6.jpg",
+      "imgUrl": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/07/18/3341486-1900012016.jpg?itok=Hs2pJINc",
       "name": "Layla",
       "experience": 4,
       "numRecipes": 12,
