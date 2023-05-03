@@ -10,26 +10,29 @@
       "recipes": [
         {
           "id": 11,
-          "name": "Spicy Chicken Curry",
+          "name": "Chicken kabsa",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
           
         },
         { 
           "id": 12,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
          
         },
         {
           "id": 13, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
           
         }
       ]
@@ -48,23 +51,26 @@
           "name": "Spicy Chicken Curry",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
          
         },
         { 
           "id": 15,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
          
         },
         {
           "id": 16, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
         
         }
       ]
@@ -83,23 +89,26 @@
           "name": "Spicy Chicken Curry",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
           
         },
         { 
           "id": 18,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
           
         },
         {
           "id": 19, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
          
         }
       ]
@@ -118,23 +127,26 @@
           "name": "Spicy Chicken Curry",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
          
         },
         { 
           "id": 21,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
           
         },
         {
           "id": 22, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
           
         }
       ]
@@ -153,23 +165,26 @@
           "name": "Spicy Chicken Curry",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
           
         },
         { 
           "id": 24,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
          
         },
         {
           "id": 25, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
           
         }
       ]
@@ -188,22 +203,25 @@
           "name": "Spicy Chicken Curry",
           "ingredients": ["chicken", "coconut milk", "onion", "garlic", "ginger", "chili powder", "cumin", "coriander", "salt", "pepper"],
           "method": "1. Heat oil in a pan and fry onions, garlic, and ginger.\n2. Add chicken and cook until browned.\n3. Add spices and coconut milk, simmer for 20 minutes.\n4. Serve with rice.",
-          "rating": 4.5
+          "rating": 4.5,
+          "recipeUrl" : "https://silkroadrecipes.com/wp-content/uploads/2021/03/Middle-Eastern-Chicken-and-Rice-Al-Kabsa-square.jpg"
         },
         { 
           "id": 27,
-          "name": "Mushroom Risotto",
+          "name": "Chicken Mandi",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese", "vegetable broth", "butter", "white wine", "salt", "pepper"],
           "method": "1. Heat butter in a pan and fry onions and garlic.\n2. Add rice and stir for a few minutes.\n3. Add white wine and cook until absorbed.\n4. Add mushrooms and broth, stir occasionally until rice is cooked.\n5. Add parmesan cheese and season with salt and pepper.",
-          "rating": 4.2
+          "rating": 4.2,
+          "recipeUrl" : "https://www.munatycooking.com/wp-content/uploads/2022/09/Chicken-Mandi-1200-x1200-2022.jpg"
           
         },
         {
           "id": 28, 
-          "name": "Beef Stroganoff",
+          "name": "Beef With Arabic Spice",
           "ingredients": ["beef", "mushrooms", "onion", "garlic", "sour cream", "beef broth", "paprika", "flour", "egg noodles", "salt", "pepper"],
           "method": "1. Cook egg noodles according to package instructions.\n2. Season beef with paprika, salt, and pepper, and fry until browned.\n3. Add mushrooms, onion, and garlic, and cook until softened.\n4. Add flour and beef broth, and simmer until thickened.\n5. Add sour cream and season to taste.\n6. Serve over egg noodles.",
-          "rating": 4.7
+          "rating": 4.7,
+          "recipeUrl": "https://www.herbies.com.au/wp-content/uploads/2018/06/baharat-beef.jpg?v=1627529325"
           
         }
       ]
